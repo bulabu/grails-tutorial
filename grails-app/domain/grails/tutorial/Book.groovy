@@ -15,4 +15,5 @@ class Book {
     String ISBN;
     String readerName;
     Date dateTaken;
+    String test;
 }
